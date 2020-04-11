@@ -13,7 +13,7 @@ Disqus brings the power of commenting to the Awake template. It provides feature
 
 Go to disqus.com and click on "Get Started"
 
-![Screenshot of Disqus homepage](/uploads/disqus-get-started.jpg)
+![Screenshot of Disqus homepage]()
 
 ## Step 2
 
